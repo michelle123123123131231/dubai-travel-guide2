@@ -82,7 +82,7 @@
       padding:90px;
     font-size:18px;
       text-align:center;
-    background-image:url(https://www.cnet.com/a/img/resize/c3e80a0a967c57d0fa7d6c9b2aeced2c20c9c2e9/hub/2016/12/16/85151223-cdd5-4b48-9be5-d8e39b133ebf/burj-khalifa-1.jpg?auto=webp&width=1200)
+    background-image :url(https://www.cnet.com/a/img/resize/c3e80a0a967c57d0fa7d6c9b2aeced2c20c9c2e9/hub/2016/12/16/85151223-cdd5-4b48-9be5-d8e39b133ebf/burj-khalifa-1.jpg?auto=webp&width=1200)
   }
   
   .fun{
@@ -144,3 +144,6 @@
     display: inline-block;
     width:260px;
     height:110px
+      
+   .castle{
+  background-image:url(https://assets.kerzner.com/api/public/content/ee8f360722de459a93ca4eaa257b308b?v=a3566083&t=w2880)  }
