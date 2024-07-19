@@ -1,0 +1,146 @@
+*{background-color:beige
+    cover;
+    margin: 0;
+    padding: 0;
+    background-image: url();
+  }
+  
+  .top p {
+    font-size: 30px;
+  }
+  header {
+    background-image: url(https://st3.depositphotos.com/20363444/35377/i/450/depositphotos_353776570-stock-photo-beautiful-beach-white-sand-blue.jpg);
+        background-size: cover;
+  }
+  
+  .airplane{
+    text-align: center;
+    transform: rotate(20deg)
+  }
+  
+  .top{
+      text-align:center;
+    margin:-40px;
+      padding: 40px;
+    background-size: cover;
+    font-size:55px;
+  
+   
+  }
+  
+  .introduction p{
+    font-size:  20px;
+  }
+  .introduction{
+    text-align:left ;
+     background-color: #fff;
+      margin: 20px 0;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      transition: transform 0.2s, box-shadow 0.2s;
+    font-size:20px;
+    margin: 70px
+      
+  }
+  .table{
+    text-align:left ;
+     background-color: #fff;
+      margin: 20px 0;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      transition: transform 0.2s, box-shadow 0.2s;
+    font-size: 20px;
+    margin: 70px
+    }
+  
+  .shadow:hover {
+      transform: translateY(-5px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);}
+    
+    .table ul {
+      list-style: none;
+      padding: 0;
+  }
+  
+  .table ul li {
+      background: #6AD0E7;
+      margin: 10px 0;
+      padding: 10px;
+    border-radius: 5px;
+  font-size:px}
+  
+  .sights h2{
+    font-size:20px;
+    text-align:center;
+  }
+  .sights{
+    background-size: cover;
+    margin-left:70px;
+    margin-right:70px;
+      padding:90px;
+    font-size:18px;
+      text-align:center;
+    background-image:url(https://www.cnet.com/a/img/resize/c3e80a0a967c57d0fa7d6c9b2aeced2c20c9c2e9/hub/2016/12/16/85151223-cdd5-4b48-9be5-d8e39b133ebf/burj-khalifa-1.jpg?auto=webp&width=1200)
+  }
+  
+  .fun{
+  background-image: url(https://i.pinimg.com/736x/fb/77/e6/fb77e6d6d51bf7577a006320d93cce08.jpg);
+    background-size: cover;
+    padding:90px;
+    margin-left: 70px;
+  }
+  
+  .musuem {
+    background-image:url(https://www.artnews.com/wp-content/uploads/2022/05/Museum-of-Future-Exterior-3.jpg?w=1200);
+    background-size:cover;
+    padding:90px;
+    margin-left:70px;
+      margin-right:70px
+  }
+  
+  .frame{
+  background-image:url("https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/6a/0b/db/caption.jpg?w=300&h=300&s=1");
+    background-size:cover;
+  margin-right:px;
+  padding:90px;
+  }
+  
+  .hotel-booking {
+    text-align:left ;
+     background-color: #fff;
+      margin: 20px 0;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      transition: transform 0.2s, box-shadow 0.2s;
+    font-size:20px;
+    margin: 70px
+  }
+  
+  .hotelone{
+   background-image:url(https://cf.bstatic.com/xdata/images/hotel/max1024x768/457389536.jpg?k=1b5b93930a67d2372178da9df3c090ec47fb1f5622f5664dde18c4362f31b355&o=&hp=1);
+     background-size:cover;
+    margin-left:70px;
+    margin-right:-px;
+    padding:180px;
+    height:180px;
+    text-align:right;
+    
+  }
+  
+  .sidebyside{
+    display: inline-block;
+    width:391px;
+    height:200px
+  }
+  
+  .hotel-booking:hover {
+      transform: translateY(-5px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);}
+  
+  .side{
+    display: inline-block;
+    width:260px;
+    height:110px
